@@ -34,4 +34,5 @@ Most likely the Decision Tree model as it tends to have a higher accuracy rate a
 * Compare the differences between the traditional machine learning classification and regression models and the neural network models.
 * Describe the perceptron model and its components.
 * Implement neural network models using TensorFlow.
+* Explain how different neural network structures change algorithm performance.
 
