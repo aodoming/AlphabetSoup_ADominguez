@@ -36,4 +36,7 @@ Most likely the Decision Tree model as it tends to have a higher accuracy rate a
 * Implement neural network models using TensorFlow.
 * Explain how different neural network structures change algorithm performance.
 * Preprocess and construct datasets for neural network models.
+* Compare the differences between neural network models and deep neural networks.
+* Implement deep neural network models using TensorFlow.
+
 
