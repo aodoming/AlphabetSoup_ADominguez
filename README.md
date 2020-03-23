@@ -13,5 +13,8 @@ First, import, analyze, clean, and preprocess a “real-world” classification 
 
 1) How many neurons and layers did you select for your neural network model? Why?
 
-Prior to optimizing model, the model was using 8 and 5 neurons for hidden_nodes_layer1 and hidden_nodes_layer2 
+Prior to optimizing model, the model was using 8 and 5 neurons for hidden_nodes_layer1 and hidden_nodes_layer2
+respectively because there were 8 feature columns and so as to not overfit the model.
+There were also 2 hidden layers used, along with the relu activation function.
+
 
