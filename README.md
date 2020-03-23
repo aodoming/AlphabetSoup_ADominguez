@@ -28,3 +28,5 @@ However, steps taking to increase model performance includes:
 
 3) If you were to implement a different model to solve this classification problem, which would you choose? Why?
 
+Most likely the Decision Tree model as it tends to have a higher accuracy rate and Decision Trees can handle both categorical and numerical data.
+
