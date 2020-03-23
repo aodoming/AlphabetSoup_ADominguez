@@ -30,3 +30,6 @@ However, steps taking to increase model performance includes:
 
 Most likely the Decision Tree model as it tends to have a higher accuracy rate and Decision Trees can handle both categorical and numerical data.
 
+### THINGS LEARNED
+* Compare the differences between the traditional machine learning classification and regression models and the neural network models.
+
