@@ -7,3 +7,4 @@ Create a binary classifier to project which applicants are likely to be successf
 
 ### APPROACH
 Used a CSV file with more than 34,000 organizations that have received various amounts of funding from Alphabet Soup over the years.
+First, import, analyze, clean, and preprocess a “real-world” classification dataset. Then select, design, and train a binary classification model of your choosing. Finally, optimize model training and input data to achieve desired model performance.
