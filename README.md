@@ -16,4 +16,5 @@ Prior to optimizing model, the model was using 8 and 5 neurons for hidden_nodes_
 respectively because there were 8 feature columns and so as to not overfit the model.
 There were also 2 hidden layers used, along with the relu activation function.
 
+2) Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
 
