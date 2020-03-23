@@ -11,9 +11,12 @@ First, import, analyze, clean, and preprocess a “real-world” classification 
 
 ### RESULTS
 1) How many neurons and layers did you select for your neural network model? Why?
+
 Prior to optimizing model, the model was using 8 and 5 neurons for hidden_nodes_layer1 and hidden_nodes_layer2
 respectively because there were 8 feature columns and so as to not overfit the model.
 There were also 2 hidden layers used, along with the relu activation function.
 
 2) Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
+
+No, model did not achieve the target model performance even after optimizing model. It acted poorly at accuracy rate = 53%
 
