@@ -22,3 +22,4 @@ No, model did not achieve the target model performance even after optimizing mod
 
 However, steps taking to increase model performance includes:
 * Adding more neurons on the different hidden layers
+* Adding one more hidden layer to allow neurons to train on activated input values
