@@ -38,5 +38,7 @@ Most likely the Decision Tree model as it tends to have a higher accuracy rate a
 * Preprocess and construct datasets for neural network models.
 * Compare the differences between neural network models and deep neural networks.
 * Implement deep neural network models using TensorFlow.
+* Save trained TensorFlow models for later use.
 
-
+### SOFTWARE/TOOLS
+Jupyter Notebook, Python, TensorFlow
