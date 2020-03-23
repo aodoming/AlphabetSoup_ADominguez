@@ -20,3 +20,5 @@ There were also 2 hidden layers used, along with the relu activation function.
 
 No, model did not achieve the target model performance even after optimizing model. It acted poorly at accuracy rate = 53%
 
+However, steps taking to increase model performance includes:
+* Adding more neurons on the different hidden layers
